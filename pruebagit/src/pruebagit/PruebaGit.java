@@ -6,7 +6,6 @@ public class PruebaGit {
 
 System.out.println("Hola mundo");
 System.out.println("Hola mundo");
-System.out.println("Hola mundo");
 	}
 
 }
